@@ -153,7 +153,7 @@ const Index = () => {
         <footer className="mt-auto py-6 text-center text-sm text-muted-foreground">
         <p>
     &copy; {new Date().getFullYear()} LinkCraft. Coded by AI, prompted by{" "}
-    <a href="https://qomarhsn.com" className="hover:text-primary">Qomarul Hasan</a>
+    <a href="https://qomarhsn.github.io" className="hover:text-primary">Qomarul Hasan</a>
   </p>
         </footer>
       </div>
