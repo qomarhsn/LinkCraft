@@ -382,7 +382,7 @@ const PreviewSection: React.FC<PreviewSectionProps> = ({
         
         ${showCredit ? `
         <div class="page-footer footer">
-            Created with <a href="https://linkcraft.qomarhsn.com" target="_blank" rel="noopener noreferrer">LinkCraft</a>
+            Created with <a href="https://linkcraft.pages.dev" target="_blank" rel="noopener noreferrer">LinkCraft</a>
         </div>
         ` : ''}
     </div>
