@@ -5,6 +5,15 @@ You can clone and modify this project, or simply use the hosted generator at:
 
 [https://linkcraft.pages.dev](https://linkcraft.pages.dev)
 
+## Demos
+
+Explore example implementations of LinkCraft:
+
+- [LinkCraft Demo With Credit](https://linkcraft-demo-with-credit.surge.sh/)
+- [LinkCraft Demo Without Credit](https://linkcraft-demo-demo-without-credit.surge.sh/)
+
+---
+
 ## How to Use (Easy Way)
 
 1. Go to [https://linkcraft.pages.dev](https://linkcraft.pages.dev)
