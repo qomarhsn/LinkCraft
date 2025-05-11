@@ -312,7 +312,7 @@ const FormSection: React.FC<FormSectionProps> = ({
                         id={`customIcon-${index}`}
                         value={getCustomIconClass(link.icon)}
                         onChange={(e) => handleLinkChange(e, index, "customIcon")}
-                        placeholder="brands fa-twitter"
+                        placeholder="brands fa-telegram"
                         className="mt-1 flex-1"
                       />
                     </div>
